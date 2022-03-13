@@ -10,3 +10,5 @@ Amac siniflandirma problemi icin bagimli ve bahimsiz degiskenler arasindaki ilis
 Amac iki sinif arasindaki ayrimin optimum olmasini saglayacak hiper-duzlemi bulmaktir.
 
 Dogrusal Olmayan SVM'de grafigi 3 boyutluya cikartiyoruz. Kernell trick(hilesi) adi verilir.
+
+# Yapay Sinir Aglari
