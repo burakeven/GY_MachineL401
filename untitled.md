@@ -12,3 +12,7 @@ Amac iki sinif arasindaki ayrimin optimum olmasini saglayacak hiper-duzlemi bulm
 Dogrusal Olmayan SVM'de grafigi 3 boyutluya cikartiyoruz. Kernell trick(hilesi) adi verilir.
 
 # Yapay Sinir Aglari
+
+# CART
+Heterojen veri setleri belirlenmis bir hedef degiskene gore homojen alt gruplara ayrilir
+Amac veri seti icersindeki karmasik yapilari basit karar yapilarina donusturmektir.
